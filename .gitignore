@@ -87,4 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
-node_modles
+node_modules
+static
+nbs.json
+

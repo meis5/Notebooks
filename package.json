@@ -1,0 +1,24 @@
+{
+  "name": "Notebooks",
+  "version": "1.0.0",
+  "description": "Notebooks",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meis5/Notebooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meis5/Notebooks/issues"
+  },
+  "homepage": "https://github.com/meis5/Notebooks#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "node-glob": "^1.2.0"
+  }
+}
